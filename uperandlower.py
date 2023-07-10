@@ -12,4 +12,4 @@ def string_test(s):
     print ("No. of Upper case characters : ", upper_case)
     print ("No. of Lower case Characters : ", lower_case)
 
-string_test('The quick Brown Fox')
+string_test('The quick Brow Fox')
